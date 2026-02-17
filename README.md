@@ -1,6 +1,6 @@
 # Career Path Explorer
 
-A full-stack web application demonstrating fundamental web development concepts for high school students. This application showcases how frontend (React), backend (Node.js/Express), REST APIs, and PostgreSQL databases work together in a cohesive system.
+A full-stack web application demonstrating fundamental web development concepts for high school students. This application showcases how frontend (React), backend (Node.js/Express), REST APIs, and PostgreSQL databases work together in a cohesive system. Hosted by Render.
 
 ## 🎯 Educational Purpose
 
